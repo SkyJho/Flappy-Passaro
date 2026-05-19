@@ -1,1 +1,1 @@
-//vspeed = caindo
+image_index = 0;

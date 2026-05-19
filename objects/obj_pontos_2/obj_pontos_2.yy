@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_obstaculo",
+  "%Name":"obj_pontos_2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_obstaculo",
+  "name":"obj_pontos_2",
   "overriddenProperties":[],
   "parent":{
     "name":"Object",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_obstaculo",
-    "path":"sprites/spr_obstaculo/spr_obstaculo.yy",
+    "name":"spr_pontos",
+    "path":"sprites/spr_pontos/spr_pontos.yy",
   },
   "spriteMaskId":null,
   "visible":true,

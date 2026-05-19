@@ -1,3 +1,3 @@
 //Criando movimento
-speed = 3
-direction = 180
+speed = 3;
+direction = 180;

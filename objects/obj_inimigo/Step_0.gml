@@ -1,1 +1,3 @@
-if (x <= -4) instance_destroy();
+if (x < -15) instance_destroy();
+
+show_debug_message(speed)

@@ -1,3 +1,3 @@
-vspeed += gravity
+vspeed += gravity;
 
-if (vspeed >= 2) vspeed = 2
+if (vspeed >= 1.5) vspeed = 1.5;

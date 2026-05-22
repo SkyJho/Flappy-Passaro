@@ -1,14 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_botao_2",
+  "%Name":"obj_valor_coruja",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_botao_2",
+  "name":"obj_valor_coruja",
   "overriddenProperties":[],
   "parent":{
     "name":"Object",
@@ -33,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_botao_bloqueado",
-    "path":"sprites/spr_botao_bloqueado/spr_botao_bloqueado.yy",
+    "name":"spr_pontos",
+    "path":"sprites/spr_pontos/spr_pontos.yy",
   },
   "spriteMaskId":null,
   "visible":true,

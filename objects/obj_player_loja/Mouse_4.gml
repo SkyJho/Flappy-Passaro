@@ -1,0 +1,1 @@
+object_set_sprite(obj_player, spr_player)

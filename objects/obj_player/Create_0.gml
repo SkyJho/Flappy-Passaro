@@ -1,6 +1,6 @@
-gravity = 0.33; 
-vspeed = 0;
-voo = 18.1;
+gravity = 0.1; 
+
+voo = -5;
 
 image_speed = 0;
 image_index = 0;

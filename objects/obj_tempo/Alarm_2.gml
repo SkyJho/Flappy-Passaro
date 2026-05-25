@@ -1,0 +1,1 @@
+global.velocidade_obstaculo = 3.2;

@@ -1,3 +1,3 @@
 vspeed += gravity;
-
-if (vspeed >= 1.5) vspeed = 1.5;
+show_debug_message(vspeed)
+if (vspeed >= 3.3) vspeed = 3.3;

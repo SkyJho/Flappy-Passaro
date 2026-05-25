@@ -1,5 +1,5 @@
 image_xscale = -1;
+direction = 180;
 
 //mover
-speed = 5;
 direction = 180;

@@ -1,0 +1,1 @@
+global.velocidade_inimigo = 8;

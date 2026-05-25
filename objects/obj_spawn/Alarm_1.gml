@@ -1,7 +1,7 @@
 if (!instance_exists(obj_inimigo)) {
 	instance_create_layer(
 		room_width + 50,
-		random_range(40, 232),
+		random_range(152, 160),
 		"inimigo",
 		obj_inimigo
 	)
